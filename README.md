@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PranavMunjal1
-- 👀 I’m proficient in coding and software development
-- 🌱 I’m currently learning HTML,CSS, JavaScript, React and so on.
+- 👀 I’m proficient in coding, business analytics and so on.
 - 💞 Currently Building out Projects.
 - 📫 How to reach me. Email: pranavmunjal99@gmail.com
 - 😄 Pronouns: He/Him
